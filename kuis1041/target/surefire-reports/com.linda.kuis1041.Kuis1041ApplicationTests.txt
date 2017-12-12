@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.linda.kuis1041.Kuis1041ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.193 sec - in com.linda.kuis1041.Kuis1041ApplicationTests
